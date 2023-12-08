@@ -1,23 +1,23 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Github%20Banner.png?raw=true" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
+## Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-## Reach me out
+## Contact Me
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Linkedin.png?raw=true">](https://www.linkedin.com/in/trishon-baidaya-shontu/)[<img height="75" src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Twitter.png?raw=true"> </p>](https://twitter.com/BaidayaShontu)
 
 <br />
 
-## :computer: Technologies that I know
+## Technologies
 
 <br>
 <p align="center">
